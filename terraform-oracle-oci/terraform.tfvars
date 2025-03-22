@@ -1,0 +1,7 @@
+ocid_tenancy = "ocid1.tenancy.oc1..xxx"
+ocid_user = "ocid1.user.oc1..xxx"
+key_path = "<provide your private key file path here like /Users/sam/.oci/file.pem>"
+finger_print = "xxx"
+region_identifier = "xxx"
+compartment_id = "ocid1.tenancy.oc1..xxx"
+email_id = "xxx"
